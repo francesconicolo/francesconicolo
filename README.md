@@ -4,7 +4,7 @@
 
 ### 👋 Chi sono
 
-Sono uno sviluppatore **Software** in cerca di risolvere problemi reali.
+Sono uno sviluppatore **Software** in cerca di risolvere problemi reali e non.
 
 ---
 
