@@ -38,5 +38,5 @@ Sono uno sviluppatore **Software** in cerca di risolvere problemi reali.
 ### 🔗 Connect with me
 <p align="center">
 <a href="https://www.linkedin.com/in/francesco-nicolo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https:/francesconicolo.dev/"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://francesconicolo.dev/"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
